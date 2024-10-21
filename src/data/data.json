@@ -1,0 +1,40 @@
+
+[
+    {
+        "name":"Dosa",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus, consequatur!",
+        "image":"src/images/dosa.jpg",
+        "price":200
+    },
+    {
+        "name":"Chhola",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus, consequatur!",
+        "image":"src/images/chhola.jpg",
+        "price":135
+    },
+    {
+        "name":"Paneer",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus, consequatur!",
+        "image":"src/images/paneer.jpg",
+        "price":215
+    },
+    {
+        "name":"Masala",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus, consequatur!",
+        "image":"src/images/masala.jpg",
+        "price":200
+    },
+    {
+        "name":"Idli",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus, consequatur!",
+        "image":"src/images/idli.jpg",
+        "price":75
+    },
+    {
+        "name":"Gujrati",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus, consequatur!",
+        "image":"src/images/gujrati.jpeg",
+        "price":105
+    }
+
+]
